@@ -1,0 +1,8 @@
+.contact {
+  flex-direction: column;
+  padding-bottom: 3em;
+}
+.contact__card {
+  margin-left: 4px;
+  margin-right: 4px;
+}
